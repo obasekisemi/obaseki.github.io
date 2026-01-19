@@ -1,5 +1,5 @@
 ---
-title:Thermodynamics
+title: thermodynamics
 description: A summary of thermodynamic topics to help improve intuition
 image:
 
