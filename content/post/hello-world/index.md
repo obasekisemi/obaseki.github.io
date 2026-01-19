@@ -5,9 +5,9 @@ slug: hello-world
 date: 2026-01-18 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - Thermodynamics 
 tags:
-    - Example Tag
+    - Thermodynamics Tag
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
